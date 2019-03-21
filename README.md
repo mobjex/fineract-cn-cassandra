@@ -1,3 +1,5 @@
+[![Release](https://jitpack.io/v/mobjex/fineract-cn-cassandra.svg)](https://jitpack.io/#mobjex/fineract-cn-cassandra)
+
 # Apache Fineract CN Cassandra
 
 This project provides helps for using Cassandra in Fineract CN services.
